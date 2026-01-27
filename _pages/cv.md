@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. candidate in Information Science, University of Michigan (expected)
+* M.S. in Data Science, University of Michigan, 2023 (GPA: 3.9)
+* B.S. in Computational and Applied Mathematics, Chinese University of Hong Kong, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2025: Graduate Student Instructor
+  * University of Michigan, School of Information
+  * Course: SI 315 - Models of Social Information Processing
+  * Duties include: Teaching, grading, and course development
+  * Supervisor: Prof. [Sabina Tomkins](https://www.si.umich.edu/people/sabina-tomkins)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: Python, R, SQL, JavaScript
+* **Machine Learning**: Deep learning, NLP, computer vision, probabilistic modeling
+* **Data Analysis**: Statistical analysis, network analysis, time series analysis
+* **Tools & Frameworks**: PyTorch, scikit-learn, pandas, Jupyter
+* **Languages**: Mandarin (Native), English (Fluent), Cantonese (Fluent)
 
 Publications
 ======
@@ -47,9 +37,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+News
 ======
-  <ul>{% for post in site.talks reversed %}
+  <ul>{% for post in site.news reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
@@ -61,4 +51,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Submissions reviewer, IC2S2-25 (2025)
